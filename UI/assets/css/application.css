@@ -35,6 +35,10 @@
   border-left:  3px solid #7ac3ec;
 }
 
+.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side {
+  background-color: #3A7FA7;
+}
+
 .skin-blue .sidebar a {
   color: #ffffff;
 }
