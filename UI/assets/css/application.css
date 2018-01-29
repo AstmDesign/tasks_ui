@@ -63,3 +63,12 @@
 .main-footer a{
   color: #ffffff;
 }
+
+.bg-aqua {
+  background-color: #3A7FA7 !important;
+  border-left: 10px solid #7ac3ec !important;
+}
+
+.box.box-success {
+  border-top-color: #3A7FA7;
+}
