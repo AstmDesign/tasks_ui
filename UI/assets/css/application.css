@@ -72,3 +72,12 @@
 .box.box-success {
   border-top-color: #3A7FA7;
 }
+
+.users-list li {
+  width: 20%;
+}
+
+.users-list>li img {
+  border: solid 3px #3D7FA5;
+  padding: 5px 5px 0px 5px;
+}
